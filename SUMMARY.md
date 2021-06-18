@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [ORNL Experimental Computing Laboratory \(ExCL\)](README.md)
+* [About](about.md)
 
