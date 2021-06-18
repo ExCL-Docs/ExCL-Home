@@ -18,5 +18,5 @@ The exclusive access nodes allow privileged bare metal access to the entire comp
 
 ExCL has been designed and is managed by researchers at the [Architectures and Performance Group](https://www.ornl.gov/group/architectures-performance) of [Oak Ridge National Laboratory](http://www.ornl.gov/). Users of the system can work together with these experts to increase their productivity.
 
- [Contact us](http://excl.ornl.gov/contact/) for more information about the system and if you are interested in becoming a user.
+ [Contact us](http://excl.ornl.gov/contact/) for more information about the system when you are interested in becoming a user.
 
